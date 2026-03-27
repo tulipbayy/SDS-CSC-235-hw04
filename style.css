@@ -5,6 +5,11 @@
   border: 1px solid #ccc;
 }
 
+#barchart {
+  display: block;
+  margin: auto;
+}
+
 .tooltip {
   position: absolute;
   background-color: white;
@@ -14,3 +19,4 @@
   pointer-events: none;
   font-size: 12px;
 }
+
